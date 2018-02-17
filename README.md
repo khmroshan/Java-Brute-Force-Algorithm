@@ -1,3 +1,3 @@
 # Java-Brute-Force-Algorithm
 
-Not mutch effecive. But it's work.
+Not much effecive. But it's work.
