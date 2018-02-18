@@ -9,7 +9,7 @@ public class BruteForceMain {
 
 	public static void main(String[] args) throws Exception {
 
-		long counter = 0;
+		
 		while (true) {
 			System.out.println(start);
 			start = returner(start, null);
